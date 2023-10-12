@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+div {
+    position: absolute;
+}
+
+#text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80pt;
+    top: 100%;
+    left: 20%;
+    transform: rotate(15deg);
+    transition: 1s ease;
+    color: white;
+    font-weight: bold;
+}
